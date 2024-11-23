@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently at School learning Computer science basics
 - 😄 Pronouns: he/him
